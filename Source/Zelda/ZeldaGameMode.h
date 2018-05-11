@@ -1,0 +1,26 @@
+// Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "GameFramework/GameModeBase.h"
+#include "ZeldaGameMode.generated.h"
+
+UCLASS(minimalapi)
+class AZeldaGameMode : public AGameModeBase
+{
+	GENERATED_BODY()
+
+public:
+	AZeldaGameMode();
+    
+    UFUNCTION(BlueprintPure, Category="HUD")
+    uint8 GetRupees() const;
+    
+protected:
+    UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "HUD")
+    uint8 Rupees;
+};
+
+
+
