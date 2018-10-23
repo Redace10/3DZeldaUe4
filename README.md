@@ -1,5 +1,7 @@
 # Unreal engine 4 3D Zelda game
 
+Link to youtube video of gameplay: https://youtu.be/lEFWtjaqb1k
+
 # Purpose
 This is my personal Unreal Engine game.
 This is your typical action-adventure 3D Zelda-like RPG game.
