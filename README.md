@@ -6,7 +6,9 @@ This is your typical action-adventure 3D Zelda-like RPG game.
 I made this game for fun and to learn about UE4!
 This video is not monetized.
 
-Credits:
-First Song: https://www.youtube.com/watch?v=MkYJn...
-Second Song: https://www.youtube.com/watch?v=CbTI_...
-Zelda assets: https://www.youtube.com/watch?v=LC8Ss...
+# Credits
+First Song: https://www.youtube.com/watch?v=MkYJn2egYys
+
+Second Song: https://www.youtube.com/watch?v=CbTI_Bzy29I
+
+Zelda assets: https://www.youtube.com/watch?v=LC8SsHV-muU
