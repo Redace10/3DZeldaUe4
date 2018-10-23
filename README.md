@@ -20,4 +20,6 @@ Zelda assets: https://www.youtube.com/watch?v=LC8SsHV-muU
 - Developed smooth animations using transition states in animation blueprints and blendspaces
 - Created characters, HUD, and gameplay by programming in C++ and scripting in blueprints
 
+# How to Run:
+
 # Screenshot:
