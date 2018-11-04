@@ -26,3 +26,8 @@ Infinity Blade and Paragon assets avialable on Epic Games Marketplace for free
 - Uses assets from Inifinity blade, Paragon and other third party resources as mentioned in the credits above
 
 # Screenshot:
+![Alt text](/screenshots/start.PNG)
+![Alt text](/screenshots/shield.PNG)
+![Alt text](/screenshots/stairs.PNG)
+![Alt text](/screenshots/dodge.PNG)
+![Alt text](/screenshots/boss.PNG)
