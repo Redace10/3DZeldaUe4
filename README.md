@@ -15,11 +15,12 @@ Second Song: https://www.youtube.com/watch?v=CbTI_Bzy29I
 
 Zelda assets: https://www.youtube.com/watch?v=LC8SsHV-muU
 
+Infinity Blade and Paragon assets avialable on Epic Games store for free
+
 # Features:
 - Devised AI patrol and combat interactions by managing behaviour trees with custom tasks
 - Developed smooth animations using transition states in animation blueprints and blendspaces
 - Created characters, HUD, and gameplay by programming in C++ and scripting in blueprints
-
-# How to Run:
+- Uses assets from Inifinity blade and Paragon
 
 # Screenshot:
