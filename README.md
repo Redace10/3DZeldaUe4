@@ -15,7 +15,7 @@ Second Song: https://www.youtube.com/watch?v=CbTI_Bzy29I
 
 Zelda assets: https://www.youtube.com/watch?v=LC8SsHV-muU
 
-Infinity Blade and Paragon assets avialable on Epic Games Marketplace for free
+Infinity Blade and Paragon assets available on Epic Games Marketplace for free. 
 
 # Features:
 - Devised AI patrol and combat interactions by managing behaviour trees with custom tasks
